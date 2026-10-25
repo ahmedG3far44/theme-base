@@ -1,0 +1,208 @@
+{
+  "version": 1,
+
+  "header": {
+    "logoText": "Your Name",
+    "navigation": [
+      {
+        "id": "nav-projects",
+        "label": "Projects",
+        "url": "#projects"
+      },
+      {
+        "id": "nav-contact",
+        "label": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+
+  "hero": {
+    "name": "Ahmed G3far",
+    "title": "Full-Stack Developer",
+    "heading": "I build useful web applications",
+    "description": "A short introduction about your work and the problems you solve.",
+    "primaryAction": {
+      "label": "View Projects",
+      "url": "#projects"
+    },
+    "secondaryAction": {
+      "label": "Contact Me",
+      "url": "#contact"
+    }
+  },
+
+  "projects": [
+    {
+      "id": "project-2719fcc5-8860-4c3e-a29b-1f33c47ea549",
+      "title": "Njerka AI powered ",
+      "description": "it's and online platform that helps people to plan their nutrition and fitness plans with AI ",
+      "tags": ["ExpressJS","MongoDB", "React.js", "Tailwindcss","Node.js", "AI"],
+      "media": [
+        {
+          "type": "image",
+          "url": "/images/projects/7118f3e8-7161-4a9b-9f0c-d6cebc3f5652.jpg"
+        }
+      ],
+      "thumbnail": "/images/projects/fd611475-0d02-4886-93a7-ec24a317aa2c.jpg",
+      "projectUrl": "https://foliokit.store",
+      "sourceUrl": "https://foliokit.store"
+    },
+    {
+      "id": "project-c41955d9-e19a-4a89-b260-59c4afce0b82",
+      "title": "DevPilot ",
+      "description": "online auto deploy apps ",
+      "tags": ["ExpressJS","MongoDB", "React.js", "Tailwindcss","Node.js", "DevOps","AI"],
+      "media": [
+        {
+          "type": "image",
+          "url": "/images/projects/887c63e5-b61e-44c4-928d-1267c74a1f6f.jpg"
+        }
+      ],
+      "thumbnail": "/images/projects/c596c7ec-edfd-4f78-b972-4610052eafd8.jpg",
+      "projectUrl": "https://foliokit.store",
+      "sourceUrl": "https://foliokit.store"
+    }
+  ],
+  "skills": [
+    {
+      "id": "skill-c7fc7200-0240-4dd9-8dc6-3a0799884f9c",
+      "name": "React JS",
+      "category": "Frontend Developer"
+    },
+    {
+      "id": "skill-d8cc6164-8604-428f-afe8-f043d344c0c4",
+      "name": "Express JS",
+      "category": "Backend "
+    },
+    {
+      "id": "skill-f8cf4153-3c5c-45c5-98c4-fadaa7a431da",
+      "name": "Tailwindcss",
+      "category": "Frontend "
+    },
+    {
+      "id": "skill-5089a4f7-a0cb-45fd-88d1-ae583c53083b",
+      "name": "MongoDB",
+      "category": "Backend"
+    },
+    {
+      "id": "skill-3907607b-1a4e-4f4b-af8c-a23e940f1938",
+      "name": "Docker ",
+      "category": "DevOps"
+    }
+  ],
+  "experiences": [
+    {
+      "id": "experience-2ff1e609-b416-4af3-8fa5-14404502af90",
+      "title": "Frontend Developer Intern",
+      "company": "GMind",
+      "current": false,
+      "description": "create a reusable UI component based on Figma design",
+      "achievements": [
+        "create an e-commerce application of online store "
+      ],
+      "employmentType": "internship",
+      "startDate": "Jun 2024",
+      "endDate": "Sep 2024",
+      "logo": "/images/experiences/58ea829f-ac28-43b8-9610-bf4b5334054f.jpg"
+    },
+    {
+      "id": "experience-0f74ea4d-75d3-45a6-bd68-7b9b54aa94d4",
+      "title": "Full-stack Developer Intern",
+      "company": "MAIM Digital Solutions",
+      "current": false,
+      "description": "creating a full stack web app functional includes UI design and API endpoints also deploy the app to EC2 ",
+      "achievements": [
+        "creating a full stack web app functional includes UI design and API endpoints also deploy the app to EC2 ,creating a full stack web app functional includes UI design and API endpoints also deploy the app to EC2 "
+      ],
+      "startDate": "Jun 2025",
+      "endDate": "Sep 2025",
+      "employmentType": "internship"
+    }
+  ],
+  "services": [
+    {
+      "id": "service-a7ae72f9-32f0-4651-94f2-aafdd8348645",
+      "title": "Website Development",
+      "description": "Website Development",
+      "features": [
+        "design website, developer implementation , saas, cloud services "
+      ]
+    },
+    {
+      "id": "service-5fbaab34-f98e-45ca-9f28-5b439c679d49",
+      "title": "Software Consultant",
+      "description": "Software Consultant",
+      "features": []
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "testimonial-12f22300-5b08-42fb-903a-529daf65abea",
+      "clientName": "Ahmed Badri",
+      "text": "this guy is very hard worker and good person.",
+      "clientRole": "Team Leader ",
+      "company": "MAIM Digital Solutions"
+    }
+  ],
+  "socials": [
+    {
+      "id": "social-42a7f0e0-d041-4a89-9bbd-e6576b07cb57",
+      "platform": "Github",
+      "label": "Gihub Profile",
+      "url": "https://github.com/ahmedG3far44",
+      "image": "/images/services/ec620c7f-87ef-426b-91fb-e78a3d5158e2.jpg"
+    }
+  ],
+  "contacts": {
+    "email": "ahmedjaafarbadri@gmail.com",
+    "phone": "+201559729139",
+    "location": "Alexandria, Egypt",
+    "action": {
+      "label": "Linkedin",
+      "url": "https://linkedin.com/in/ahmedg3far44"
+    }
+  },
+  "footer": {
+    "navigation": [],
+    "socials": []
+  },
+  "sections": [
+    {
+      "id": "header",
+      "enabled": true
+    },
+    {
+      "id": "hero",
+      "enabled": true
+    },
+    {
+      "id": "skills",
+      "enabled": true
+    },
+    {
+      "id": "projects",
+      "enabled": true
+    },
+    {
+      "id": "experiences",
+      "enabled": true
+    },
+    {
+      "id": "services",
+      "enabled": true
+    },
+    {
+      "id": "testimonials",
+      "enabled": true
+    },
+    {
+      "id": "contact",
+      "enabled": true
+    },
+    {
+      "id": "footer",
+      "enabled": true
+    }
+  ]
+}
